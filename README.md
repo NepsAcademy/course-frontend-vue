@@ -8,6 +8,8 @@ Para aprender todos os detalhes sobre a implementação desse projeto, nós reco
 
 Esse projeto implementa o frontend da [API de um feed de notícias](https://guide-flask.herokuapp.com/docs/swagger#/) usando o framework [Vue](https://vuejs.org/).
 
+Você pode checar o resultado final [aqui](https://nepsacademy.github.io/course-frontend-vue/)
+
 ![Feed](images/feed.png)
 
 Algumas funcionalidades incluem:
