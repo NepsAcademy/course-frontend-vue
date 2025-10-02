@@ -22,7 +22,7 @@ git add -A
 git commit -m "Deploy"
 
 # Forçar o push para a branch gh-pages do repositório remoto
-git push -f git@github.com:tiagobpires/neps_frontend_course.git gh-pages
+git push -f git@github.com:NepsAcademy/course-frontend-vue.git gh-pages
 
 # Voltar para o diretório anterior
 cd -
